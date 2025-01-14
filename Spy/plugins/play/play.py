@@ -25,9 +25,9 @@ from config import BANNED_USERS, lyrical
 
 
 EMOJII = ["🔥", "💖", "🧪", "✨", "💖",
-          "💘", "💕", "✨", "🧪", "🥰",
-          "🚩", "🧪", "🧪", "🔥", "🦠",
-          "🦠", "💖"]
+          "💘", "🩸", "✨", "💥", "🥰",
+          "✨", "🍀", "❤️‍🔥", "🔥", "🦠",
+          "🌟", "💖"]
 
 @app.on_message(
     filters.command(
