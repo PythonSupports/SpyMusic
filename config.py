@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", ""))
 
 API_HASH = getenv("API_HASH", "")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "7964473101:AAHCcOZTezdqAD8Jf_2e2xNT-aRPVGNTnfg")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
@@ -66,7 +66,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @Shsusu_bot on Telegram
-STRING1 = getenv("STRING_SESSION", "")
+STRING1 = getenv("STRING_SESSION", "BQGi1NwANijGStD6Nj35nAa_Iev_t-F-rAsozZdWhJwlJEScQc-TdgSFbpLV-xH4CDnk7LcOFgIGhemRPKDAVQ-scdlinFYXB4pa2oC1MzB4wM5UgT4eQ0hM-kUJTjYNkxh3OXRpVNB3yNwbvhQd5I1RIlJd8w144-Qm46Q49wr_-WQLRt--lJ3tu9jKspR1xFHzWwVhSRT1CqI8eipLysS18ytI3rjbni8vk7wFDPaLwIx_P5rzs757a6ARslJ1Yz-LodXFGPHo-s_JTlOFvp_lZKZt9jEh2RMPbbBalKgHtwcyDzg7d8qj09JmoB7PYSnaLQMaWwZrN5UeSIFfL0dFiTVnQwAAAAG9-bZ2AA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
