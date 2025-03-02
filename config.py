@@ -42,8 +42,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", ""
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Sherumusicbot")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+vj09JZIPR30wMzM1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/krishnetwork")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Krishsupport")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -92,7 +92,7 @@ PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/mq2h41.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/4a7c28726502e24ea0fe0.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/yi63km.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/yi63km.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/yi63km.jpg"
