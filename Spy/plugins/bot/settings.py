@@ -101,9 +101,9 @@ async def settings_back_markup(client, CallbackQuery: CallbackQuery, _):
 async def gib_repo_callback(_, callback_query):
     await callback_query.edit_message_media(
         media=InputMediaVideo(
-            "https://envs.sh/9Ki.mp4", 
+            "https://files.catbox.moe/qm35he.mp4", 
             has_spoiler=True, 
-            caption="ʟᴜɴᴅ ʟᴇʟᴇ ᴍᴇʀᴀ ʀᴇᴘᴏ ᴋʏᴀ ᴋᴀʀᴇɢᴀ, ʟᴇɢᴀ ᴋʏᴀ ʙʜᴏsᴀᴅɪᴋᴇ"
+            caption="𝖨𝖿 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍 𝗍𝗁𝗂𝗌 𝗋𝖾𝗌𝗉𝗂𝗋𝖺𝗍𝗈𝗋𝗒 𝗍𝗁𝖾𝗇 𝗒𝗈𝗎 𝗁𝖺𝗏𝖾 𝗍𝗈 𝗃𝗈𝗂𝗇 𝖪𝗋𝗂𝗌𝗁𝗇𝖾𝗍𝗐𝗈𝗋𝗄 𝖺𝗇𝖽 𝖺𝖿𝗍𝖾𝗋 𝗍𝗁𝖺𝗍 𝗒𝗈𝗎 𝖼𝖺𝗇 𝗀𝖾𝗍 𝗁𝗂𝗌 𝗋𝖾𝗌𝗉𝗂𝗋𝖺𝗍𝗈𝗋𝗒 𝖻𝗒 𝗀𝗈𝗂𝗇𝗀 𝗍𝗈 𝗌𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
