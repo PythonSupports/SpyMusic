@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/arman786mariyam/SpyMusic",
+    "https://github.com/xkrishmishra/SpyMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "SPY")
 GIT_TOKEN = getenv(
@@ -86,13 +86,13 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/li38li.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/pkb4yb.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/mq2h41.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/pkb4yb.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg"
+PLAYLIST_IMG_URL = "https://envs.sh/Tcy.jpg"
+STATS_IMG_URL = "https://envs.sh/Tcy.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/yi63km.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/yi63km.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/yi63km.jpg"
