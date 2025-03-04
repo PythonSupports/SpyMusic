@@ -2,7 +2,7 @@ import re
 import requests
 from pyrogram import filters
 
-from spymusic import app
+from spy import app
 from config import LOGGER_ID
 
 
